@@ -2,6 +2,10 @@
 
 ![01_image.png](https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/preview/01_image.png)
 
+![showreel.png](https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/showreel.png)
+
+![headshots.png](https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/headshots.png)
+
 ![admin.png](https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/admin/admin.png)
 
 ![dashboard.png](https://github.com/kkamara/premium-artist-cms-template/raw/main/premium-artist-cms-theme/admin/dashboard.png)
