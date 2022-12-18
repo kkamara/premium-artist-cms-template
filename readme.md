@@ -55,5 +55,9 @@ $u->assignRole('super admin')
 $u->save()
 ```
 
+## Misc
+
+<p>I built Premium Artist CMS Template in four weeks back in early 2020.</p>
+
 ## License
 [Legal](https://themeforest.net/legal/author#how-selling-your-items-works)
