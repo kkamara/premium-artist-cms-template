@@ -47,7 +47,7 @@ php artisan tinker
 
 ```php
 // default password: secret
-factory(\App\User::class)->create(['name'=>'Kelvin Kamara','email'=>'kelvinkamara@protonmail.com'])
+factory(\App\User::class)->create(['name'=>'Kelvin Kamara','email'=>'kamaracomputers@gmail.com'])
 User::all()
 $u=App\User::find(1)
 // roles: super admin, page admin, user admin
