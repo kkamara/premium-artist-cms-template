@@ -57,7 +57,7 @@ $u->save()
 
 ## Misc
 
-<p>I built Premium Artist CMS Template in one week back in early 2020.</p>
+<p>I built Premium Artist CMS Template in one week in early 2020.</p>
 
 ## License
 [Legal](https://themeforest.net/legal/author#how-selling-your-items-works)
